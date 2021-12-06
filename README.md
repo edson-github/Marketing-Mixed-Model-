@@ -44,4 +44,5 @@ Marketing Mixed Model Summary
 ![MMM_Example_Model_Summary](https://user-images.githubusercontent.com/93582626/144768051-c96278d5-2a7f-4acf-b400-5031444d7f16.png)
 
 Acknowledgements
+
 The work produced was inspired by the first project assigned by my new employer and the work done by Terence Shin and Dr. Robert Kübler
