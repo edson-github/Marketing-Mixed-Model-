@@ -13,7 +13,7 @@ The model, appeared to be a good estimator of sales values.
 Interpreting the Marketing Mix Model:
 - The Adj. R-squared is 0.896, therefore approximately 90% of the total variation in the data can be explained by the model. This also means that the model doesn’t   account for 10% of the data used — this could be due to omitted variables, for example if there was another marketing channel that wasn’t included.
 
-- Prob (F-statistic): 1.58e-96. This probability value (p-value) represents the likelihood that there are no good predictors of the target variable — in this case,   there are no good predictors of sales. Since the p-value is close to zero,  there is at least one predictor in the model that is a good predictor of sales.
+- Prob (F-statistic): 1.58e-96. This indicates that, overall, the regression is meaningful.
 
 - Looking at P>|t|, the p-values for TV and radio are less than 0.000, but the p-value for newspapers is 0.86, which indicates that newspaper spend has no             significant impact on sales. 
 
