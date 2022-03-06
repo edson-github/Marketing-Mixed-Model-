@@ -1,5 +1,5 @@
 # Marketing-Mixed-Model-
-Marketing Mix Model (OLS Regression) using sample data, in preparation for my role as Data Science Intern at Hallam Digital Marketing
+Generating a Marketing Mix Model (MMM) using machine learning techniques to forecast the effectiveness of various marketing channels. Using sample data, in preparation for my role as Data Science Intern at Hallam Digital Marketing
 
 My first project as Data Science Intern at Hallam is to develop a Marketing Mix Model for a client. 
 
